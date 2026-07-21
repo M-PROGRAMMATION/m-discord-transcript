@@ -5,5 +5,5 @@
 [![license](https://img.shields.io/npm/l/@m-programmation/discord-transcript.svg)](LICENSE)
 
 <p align="center">
-  <img src="/assets/banner.png" width="600" alt="MARK — Développe tes idées !" />
+  <img src="/assets/repo-banner.png" width="600" alt="MARK — Développe tes idées !" />
 </p>
